@@ -1,2 +1,2 @@
 # TradingView-Indicators
-Custom Made TradinView Indicators for QuantStreet.
+Custom Made TradingView Indicators for QuantStreet.
